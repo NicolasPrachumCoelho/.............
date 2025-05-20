@@ -1,0 +1,1 @@
+![Porcentagem de Linguagem](image.png)
