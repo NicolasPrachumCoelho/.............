@@ -1,1 +1,1 @@
-![alt text](image.png)
+![Porcentagem de Linguagem](image.png)
